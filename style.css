@@ -154,4 +154,8 @@ footer {
   .caro img {
     width: 100%;
   }
+  
+    .why-card {
+    margin: 30px 0;
+  }
 }
